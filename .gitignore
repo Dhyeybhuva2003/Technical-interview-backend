@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Cloudinary configuration
+config/cloudinary.js
+
+# Database files
+*.sqlite3
+*.db
+
+# Directories for temporary files
+tmp/
+temp/
+*.tmp
+
+# Directory for build outputs
+dist/
+build/
+
+# Coverage directory used by testing tools like jest
+coverage/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.n
